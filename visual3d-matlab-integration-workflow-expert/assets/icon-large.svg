@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F4C5C"/>
+      <stop offset="100%" stop-color="#2C7A7B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F2C14E"/>
+      <stop offset="100%" stop-color="#FFD166"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="720" rx="56" fill="url(#bg)"/>
+  <text x="84" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF">Visual3D-MATLAB</text>
+  <text x="84" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="500" fill="#DDF3F5">Integration Workflow Expert</text>
+  <path d="M90 560 L250 280 L396 512 L528 346 L680 560" fill="none" stroke="url(#line)" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="680" cy="560" r="22" fill="#FFD166"/>
+  <rect x="770" y="280" width="340" height="260" rx="24" fill="#0A2F36" opacity="0.36"/>
+  <text x="806" y="350" font-family="Consolas, Courier New, monospace" font-size="30" fill="#E8F8F9">MAT / EXE / DLL</text>
+  <text x="806" y="400" font-family="Consolas, Courier New, monospace" font-size="27" fill="#BCE7EA">save(...,'-v6')</text>
+  <text x="806" y="450" font-family="Consolas, Courier New, monospace" font-size="27" fill="#BCE7EA">explicit mapping</text>
+  <text x="806" y="500" font-family="Consolas, Courier New, monospace" font-size="27" fill="#BCE7EA">frame-rate safe</text>
+</svg>
