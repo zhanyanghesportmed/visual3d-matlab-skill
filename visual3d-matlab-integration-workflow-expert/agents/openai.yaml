@@ -1,0 +1,10 @@
+interface:
+  display_name: "Visual3D-MATLAB Expert"
+  short_description: "Version-safe Visual3D-MATLAB integration with MAT, EXE, and DLL workflows"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.svg"
+  brand_color: "#0F4C5C"
+  default_prompt: "Use $visual3d-matlab-integration-workflow-expert to design a reproducible Visual3D-MATLAB pipeline and generate one validated module at a time."
+
+policy:
+  allow_implicit_invocation: true
